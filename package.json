@@ -1,0 +1,19 @@
+{
+  "name": "addtogoodreads",
+  "version": "1.0.0",
+  "description": "Chrome and Firefox extension to add book ISBNs on page to Goodreads",
+  "main": "myscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanmarano/addtogoodreads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanmarano/addtogoodreads/issues"
+  },
+  "homepage": "https://github.com/deanmarano/addtogoodreads#readme"
+}
